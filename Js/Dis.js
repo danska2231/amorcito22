@@ -1,6 +1,6 @@
 
 document.getElementById("prgS").addEventListener(
-    'touchstart', function() {
+    'oneclick', function() {
         document.getElementById("pr1").style.display = "none";
         document.getElementById("pr2").style.display = "block";
     }
