@@ -6,7 +6,7 @@ document.getElementById("prgS").addEventListener(
     }
 )
 
-document.getElementById("BVer").addEventListener('click', function() {
+document.getElementById("BVer").addEventListener('oneclick', function() {
     document.getElementById("resultado").style.display = "block";
 })
 
